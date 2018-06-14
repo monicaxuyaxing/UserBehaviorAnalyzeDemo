@@ -42,16 +42,14 @@
 		DD850E7B20D115420042EB94 /* icon_个人_sel@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD850E6520D115420042EB94 /* icon_个人_sel@2x.png */; };
 		DD850E7C20D115420042EB94 /* icon_举手_nor@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD850E6620D115420042EB94 /* icon_举手_nor@3x.png */; };
 		DD850E7D20D115420042EB94 /* icon_学习_nor@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DD850E6720D115420042EB94 /* icon_学习_nor@3x.png */; };
-		DDAB8FA220D1FA9A003DD42C /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = DDAB8F9920D1FA9A003DD42C /* Property List.plist */; };
-		DDAB8FA320D1FA9A003DD42C /* YXReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8F9A20D1FA9A003DD42C /* YXReachability.m */; };
-		DDAB8FA420D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8F9D20D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.m */; };
-		DDAB8FA520D1FA9A003DD42C /* StatisticDBManager.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8F9F20D1FA9A003DD42C /* StatisticDBManager.m */; };
 		DDAB8FA620D1FA9A003DD42C /* Aspects.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FA120D1FA9A003DD42C /* Aspects.m */; };
 		DDAB8FB320D1FD79003DD42C /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FA920D1FD79003DD42C /* FMDatabaseQueue.m */; };
 		DDAB8FB420D1FD79003DD42C /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FAC20D1FD79003DD42C /* FMDatabaseAdditions.m */; };
 		DDAB8FB520D1FD79003DD42C /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FAD20D1FD79003DD42C /* FMDatabase.m */; };
 		DDAB8FB620D1FD79003DD42C /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FB120D1FD79003DD42C /* FMDatabasePool.m */; };
 		DDAB8FB720D1FD79003DD42C /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = DDAB8FB220D1FD79003DD42C /* FMResultSet.m */; };
+		DDAB8FFD20D20617003DD42C /* libUserBehaviorAnalyze.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DDAB8FFA20D20617003DD42C /* libUserBehaviorAnalyze.a */; };
+		DDAB900320D2071C003DD42C /* Property List.plist in Resources */ = {isa = PBXBuildFile; fileRef = DDAB900220D2071C003DD42C /* Property List.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -120,14 +118,7 @@
 		DD850E6520D115420042EB94 /* icon_个人_sel@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_个人_sel@2x.png"; sourceTree = "<group>"; };
 		DD850E6620D115420042EB94 /* icon_举手_nor@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_举手_nor@3x.png"; sourceTree = "<group>"; };
 		DD850E6720D115420042EB94 /* icon_学习_nor@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_学习_nor@3x.png"; sourceTree = "<group>"; };
-		DDAB8F9920D1FA9A003DD42C /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
-		DDAB8F9A20D1FA9A003DD42C /* YXReachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXReachability.m; sourceTree = "<group>"; };
 		DDAB8F9B20D1FA9A003DD42C /* Aspects.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Aspects.h; sourceTree = "<group>"; };
-		DDAB8F9C20D1FA9A003DD42C /* StatisticDBManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatisticDBManager.h; sourceTree = "<group>"; };
-		DDAB8F9D20D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YXUserBehaviorAnalyzeManager.m; sourceTree = "<group>"; };
-		DDAB8F9E20D1FA9A003DD42C /* YXReachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXReachability.h; sourceTree = "<group>"; };
-		DDAB8F9F20D1FA9A003DD42C /* StatisticDBManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StatisticDBManager.m; sourceTree = "<group>"; };
-		DDAB8FA020D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXUserBehaviorAnalyzeManager.h; sourceTree = "<group>"; };
 		DDAB8FA120D1FA9A003DD42C /* Aspects.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Aspects.m; sourceTree = "<group>"; };
 		DDAB8FA820D1FD79003DD42C /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
 		DDAB8FA920D1FD79003DD42C /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
@@ -140,6 +131,9 @@
 		DDAB8FB020D1FD79003DD42C /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
 		DDAB8FB120D1FD79003DD42C /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
 		DDAB8FB220D1FD79003DD42C /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		DDAB8FFA20D20617003DD42C /* libUserBehaviorAnalyze.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libUserBehaviorAnalyze.a; sourceTree = "<group>"; };
+		DDAB900220D2071C003DD42C /* Property List.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Property List.plist"; sourceTree = "<group>"; };
+		DDAB900420D20721003DD42C /* YXUserBehaviorAnalyzeManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YXUserBehaviorAnalyzeManager.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +141,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDAB8FFD20D20617003DD42C /* libUserBehaviorAnalyze.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,15 +225,11 @@
 		DD850E1B20D114FB0042EB94 /* YXUserBehaviorAnalyzeManager */ = {
 			isa = PBXGroup;
 			children = (
+				DDAB900420D20721003DD42C /* YXUserBehaviorAnalyzeManager.h */,
+				DDAB900220D2071C003DD42C /* Property List.plist */,
+				DDAB8FFA20D20617003DD42C /* libUserBehaviorAnalyze.a */,
 				DDAB8F9B20D1FA9A003DD42C /* Aspects.h */,
 				DDAB8FA120D1FA9A003DD42C /* Aspects.m */,
-				DDAB8F9920D1FA9A003DD42C /* Property List.plist */,
-				DDAB8F9C20D1FA9A003DD42C /* StatisticDBManager.h */,
-				DDAB8F9F20D1FA9A003DD42C /* StatisticDBManager.m */,
-				DDAB8F9E20D1FA9A003DD42C /* YXReachability.h */,
-				DDAB8F9A20D1FA9A003DD42C /* YXReachability.m */,
-				DDAB8FA020D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.h */,
-				DDAB8F9D20D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.m */,
 			);
 			path = "YXUserBehavior\U0010AnalyzeManager";
 			sourceTree = "<group>";
@@ -409,7 +400,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DDAB8FA220D1FA9A003DD42C /* Property List.plist in Resources */,
+				DDAB900320D2071C003DD42C /* Property List.plist in Resources */,
 				DD850E7220D115420042EB94 /* icon_举手_sel@3x.png in Resources */,
 				DD850DF620D114E50042EB94 /* LaunchScreen.storyboard in Resources */,
 				DD850E6C20D115420042EB94 /* 9嘉宾服务_icon_打电话@2x.png in Resources */,
@@ -459,7 +450,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DDAB8FA520D1FA9A003DD42C /* StatisticDBManager.m in Sources */,
 				DD850E5020D1152D0042EB94 /* ViewController.m in Sources */,
 				DD850E4820D115110042EB94 /* RootTabBarVC.m in Sources */,
 				DDAB8FB520D1FD79003DD42C /* FMDatabase.m in Sources */,
@@ -467,11 +457,9 @@
 				DDAB8FB320D1FD79003DD42C /* FMDatabaseQueue.m in Sources */,
 				DDAB8FB420D1FD79003DD42C /* FMDatabaseAdditions.m in Sources */,
 				DD850E4D20D115240042EB94 /* AppDelegate.m in Sources */,
-				DDAB8FA420D1FA9A003DD42C /* YXUserBehaviorAnalyzeManager.m in Sources */,
 				DD850E4720D115110042EB94 /* StudyVC.m in Sources */,
 				DD850DF920D114E50042EB94 /* main.m in Sources */,
 				DD850E4A20D115110042EB94 /* PersonalVC.m in Sources */,
-				DDAB8FA320D1FA9A003DD42C /* YXReachability.m in Sources */,
 				DDAB8FB720D1FD79003DD42C /* FMResultSet.m in Sources */,
 				DDAB8FB620D1FD79003DD42C /* FMDatabasePool.m in Sources */,
 				DD850E4620D115110042EB94 /* ScrollviewImgViewTest.m in Sources */,
