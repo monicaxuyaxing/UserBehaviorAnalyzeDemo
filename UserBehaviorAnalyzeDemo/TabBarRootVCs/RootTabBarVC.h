@@ -2,8 +2,8 @@
 //  RootTabBarVC.h
 //  BWAirportReadilyTake
 //
-//  Created by LiuZhiwei on 16/12/23.
-//  Copyright © 2016年 LiuZhiwei. All rights reserved.
+//  Created by XYX on 2018/6/12.
+//  Copyright © 2018年 XYX. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

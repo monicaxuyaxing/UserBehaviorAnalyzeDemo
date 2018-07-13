@@ -2,8 +2,8 @@
 //  UserBehaviorAnalyzeDemoUITests.m
 //  UserBehaviorAnalyzeDemoUITests
 //
-//  Created by monica on 2018/6/13.
-//  Copyright © 2018年 xyx. All rights reserved.
+//  Created by XYX on 2018/6/12.
+//  Copyright © 2018年 XYX. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>

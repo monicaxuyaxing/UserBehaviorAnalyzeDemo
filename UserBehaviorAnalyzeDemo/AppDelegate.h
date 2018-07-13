@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  AppUsingStatisticDemo
 //
-//  Created by 刘志伟 on 2017/8/2.
-//  Copyright © 2017年 刘志伟. All rights reserved.
+//  Created by XYX on 2018/6/12.
+//  Copyright © 2018年 XYX. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
